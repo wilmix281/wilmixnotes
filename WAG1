@@ -1,1 +1,338 @@
-WAG1
+Agile  Principles
+==================
+
+[Jeremy]: In this lecture, we're going to talk about the 12 Agile Principles. We talked about the four values but
+[Jeremy]: principles are a bit more descriptive
+[Jeremy]: guidelines, to help us make decisions through our daily agile activities. ***Agile Principle #1: Our
+[Jeremy]: highest priority is to satisfy the customer through early and continuous delivery of valuable software.***
+[Jeremy]: So, in summary principle #1 is all about delivering value faster.
+[Jeremy]: So Vivek, what does that principle mean to you?
+[Vivek]: Yeah,
+[Vivek]: Jeremy, when I read this principle there are two things that stand out to me:
+[Vivek]: First thing, is faster or early on;
+[Vivek]: and the second thing, is continuously.
+[Vivek]: So, in contrast to traditional waterfall development: instead of doing regular design, and then development,
+[Vivek]: and then testing, and then implementation- where the value is realized at the end of the Project-; Agile
+[Vivek]: says, "try to deliver value faster- almost every week or every other week- where you can give some kind
+[Vivek]: of valuable software to customer, a feature to the customer and they can give you feedback.
+[Jeremy]: Got it!
+[Jeremy]: Yeah,
+[Jeremy]: so,
+[Jeremy]: Waterfall- realize all at the end;
+[Jeremy]: Agile- is trying to make it where you're realizing the value throughout the project. Makes a lot of sense!
+[Vivek]: Definitely! [Jeremy]: ****Agile Principle #2: Welcome changing requirements, even late in development.
+[Jeremy]: Agile processes harness change for the customer's competitive advantage.***
+[Jeremy]: And in summary of the second principle, it's all about welcoming change.
+[Jeremy]: So Vivek, what do you think about that one? [Vivek]: Responding to change in 21st century is crucial, for any business,
+[Vivek]: even a small business, you need to be able to respond to change.
+[Vivek]: So, what this principle is saying is, if somebody is part of an agile team and if they're delivering something
+[Vivek]: to the customer,
+[Vivek]: think about being able to create something for [the] customer, in case something changes on their business
+[Vivek]: end.
+[Jeremy]: Sure [Vivek]: It's also about delighting customers as well, and really responding to their needs.
+[Vivek]: Because if you think about in the traditional waterfall development, where a customer comes with the
+[Vivek]: initial set of requirements, and there's a sign up process, and once you do that, you cannot really change
+[Vivek]: anything.
+[Vivek]: So, in the agile processes, where you can actually change and you are open to change.
+[Jeremy]: Absolutely yeah.
+[Jeremy]: Waterfall-
+[Jeremy]: they even have a change control process.
+[Jeremy]: I mean that's really important to keep that project on line; where[as] Agile doesn't go that route
+[Jeremy]: and it really comes back to the main quote that I've heard all the time, that the only constant in business
+[Jeremy]: is change.
+[Jeremy]: Business is always evolving.
+[Jeremy]: Businesses are always changing.
+[Jeremy]: Of course that project's going to evolve and change.
+[Jeremy]: ***Agile Principle #3 Deliver working software frequently, from a couple weeks to a couple of months,
+[Jeremy]: with a preference to the shorter timescale.***
+[Jeremy]: In summary of the third one, it's all about delivering working software frequently.
+[Jeremy]: So back to event what you think about that one.
+[Vivek]: So, two things in this principle: working software, and then frequently.
+[Vivek]: So, in this principle what we are saying is: focus on the working software.
+[Vivek]: And when we say working software- it is not a requirement;
+[Vivek]: it is not a mockup;
+[Vivek]: it is not a wireframe.
+[Vivek]: IT IS [A] WORKING SOFTWARE- something that actually works, a part of the feature that you can give it to the
+[Vivek]: customer, receive feedback, and see how they use it.
+[Vivek]: And then the second thing is, the timescale.
+[Jeremy]: Sure! [Vivek]: You are trying to shoot for the shorter timescale a few weeks. And every few weeks, you're trying
+[Vivek]: to have some sort of working software, and you're trying to give that to your customer.
+[Jeremy]: Absolutely!
+[Jeremy]: So, the working software as you can give it to them; so they can get their hands on it. Because most change
+[Jeremy]: and most ideas will come out when they actually start working with it and they can see themselves trying
+[Jeremy]: to meet that business need.
+[Jeremy]: So, that... that's absolutely crucial.
+[Jeremy]: And I think that's a huge, huge proponent of agile. ***Agile Principle #4: Business people and developers
+[Jeremy]: must work together daily, throughout the project.*** And in summary of principle #4, it's all about
+[Jeremy]: working together daily.
+[Jeremy]: Vivek? [Vivek]: Yeah,
+[Vivek]: Jeremy! So think about you and I were both business analysts at some point.
+[Vivek]: So remember how we were the liaison between the development team and the stakeholders of business folks?
+[Vivek]: So here what Agile is saying is: There's no need for a creation of this layer.
+[Vivek]: Developers, the team, and the stakeholders or the customers, can actually talk and in fact, it's encouraged,
+[Vivek]: [that] they're talking on almost...all... almost on a daily basis.
+[Vivek]: And the other thing to remember is: we're not talking about business people asking developer when this
+[Vivek]: is going to be done, when this is going to be done?
+[Jeremy]: Sure! [Vivek]: We're talking about a collaboration.
+[Vivek]: What are we building?
+[Vivek]: Has anything changed? So, that kind of communication is happening throughout.
+[Jeremy]: Awesome.
+[Jeremy]: Yeah, I think sometimes the business analyst becomes a bottleneck. You know, in a traditional waterfall
+[Jeremy]: methodology. With agile, it removes the blinders from the developer and allows them to get their questions
+[Jeremy]: answered directly from the source rather than going through a layer which doesn't really add much value.
+[Vivek]: Yep, it just helps everybody to get on the same page on what they're building. [Jeremy]: ***Agile Principal #5:
+[Jeremy]: Build projects around motivated individuals. Give them the environment and support they need, and
+[Jeremy]: trust them to get the job done.***
+[Jeremy]: So in summary a principle #5, it's all about building projects around motivated individuals.
+[Jeremy]: So 'vek, what does that mean to you?
+[Vivek]: Yeah
+[Vivek]: Jeremy, the key concept here is: there's no project manager trying to ask you, you know, what did you do
+[Vivek]: yesterday? or like how much have you done?
+[Vivek]: Like no status reports.
+[Vivek]: The idea here is, you know hire a really good, motivated group of individuals,
+[Vivek]: part of the team who are cross-functional, and actually give them space to actually do amazing work.
+[Vivek]: And when we say work, not just devolve software but also to solve problems for the company or the client.
+[Jeremy]: Yeah, it's always about creating value right?
+[Jeremy]: Yeah,
+[Jeremy]: so I think the big thing to keep in mind here if you're going to work in an agile team is, regardless
+[Jeremy]: of your title these teams are cross-functional. That means, they cross over roles. Your duties and responsibilities
+[Jeremy]: are going to evolve and change and that is because, everybody's collaborating together to try to realize
+[Jeremy]: that end value. ***Agile Principal #6: The most efficient and effective method of conveying information
+[Jeremy]: to and within a development team is face to face conversation.***
+[Jeremy]: Well, summarizing principle #6 is pretty easy! Face to face communication. Vivek, what does
+[Jeremy]: that mean to you.
+[Vivek]: Yeah.
+[Vivek]: What this means is, instead of writing a big piece a requirement document and giving to a developer, we
+[Vivek]: are encouraging more face to face communication. Or even worse creating a ticket, or messaging them, and
+[Vivek]: bothering them all the time, just having meetings face to face, where you are able to communicate what
+[Vivek]: you need.
+[Jeremy]: Having a conversation, what a novel idea!
+[Vivek]: Yup.
+[Vivek]: And also, if you look at all the agile meetings, it actually encourages face to face communication as
+[Vivek]: well.
+[Jeremy]: ***Agile Principle #7: Working software is the primary measure of progress.***
+[Jeremy]: To summarize, working software is key.
+[Jeremy]: Vivek? [Vivek]: This principle is just saying that, whenever you're thinking about progress, let's measure that
+[Vivek]: in terms of our working software.
+[Vivek]: What have we built? Not how much analysis we have done, or how many pages of documentation we have created,
+or how many mock up pages we've created?
+[Vivek]: This is purely working software. [Jeremy]: That makes sense. And while we may be creating models, as in part of that,
+[Jeremy]: and have them attached to our various items. The working software is really what we're driving towards
+[Jeremy]: and what will create the most value.
+[Jeremy]: ***Agile Principle #8:
+[Jeremy]: Agile processes promote sustainable development.
+[Jeremy]: The sponsors, developers, and users should be able to maintain a constant pace indefinitely***
+[Jeremy]: Principle #8
+[Jeremy]: is all about sustainable development. Vivek, what do you think? [Vivek]: so Jeremy, remember those traditional days where
+[Vivek]: business analyst is doing all kind of analysis. They're stressed, and they hit their deadline, they finish,
+[Vivek]: they give it to a developer.
+[Vivek]: Now a development team is stressed out, and they're trying to make the ends meet, hit the deadline, and
+[Vivek]: then finally they're done.
+[Vivek]: Then it goes to Tester. It's Tester's time to be stressful now. They're testing everything, and then implementation
+[Vivek]: time comes in, and everybody stressed out.
+[Vivek]: So, in Agile, what we're trying to do is, instead of this big bang thing wherein everybody's working
+[Vivek]: in phases, we're talking about, like, what are key features? What you need to do?.
+[Vivek]: What is the team's capacity? And think about a sustainable pace that team can develop in.
+[Jeremy]: Yeah, and I think that's really important that because in Agile the whole team is getting together, so,
+[Jeremy]: it makes it more sustainable, because...people...it's a cross-functional team, so, everybody is able to help
+[Jeremy]: move that that particular project forward to meet the value. ***Agile Principle #9:
+[Jeremy]: Continuous attention to technical excellence and good design enhances agility.*** And to summarize, it's
+[Jeremy]: all about, technical excellence. Vivek, what do you think?
+[Vivek]: I will tackle a little bit about quality in this principle.
+[Vivek]: So, if you build something and if there is no quality in place, you cannot build anything on top of it.
+[Vivek]: So, it's going to be harder for you to be agile in the future.
+[Vivek]: So, agile says: think about quality,
+[Vivek]: think about technical excellence, as you're building certain products.
+[Jeremy]: Absolutely! Yeah
+[Jeremy]: you evolve those features and functionality you've built, right? You're making slight changes to them, and
+[Jeremy]: additions to them to help drive value later on.
+[Jeremy]: If you've got problems early on in that design, or in that initial quality, you're gonna have problems
+[Jeremy]: for a long time.
+[Jeremy]: ***Agile Principle #10: Simplicity- the art of maximizing the amount of work not done- is essential.***
+[Jeremy]: Summarizing #10, is really easy.
+[Jeremy]: Simplicity. Vivek, what do you think?
+[Vivek]: When I think about this principle Jeremy, I think about Google's landing page.
+[Vivek]: So when you go to Google's landing page, it is just one search button and it's a white screen. And it is
+[Vivek]: beautiful on the way that it works.
+[Vivek]: Just because you have more and more features, it doesn't make a software pleasant to use.
+[Vivek]: So the idea here, is in Agile, you're also thinking about the outcome, and what ou-... what kind of outcome are
+[Vivek]: you looking. And you can do that by building less and less, and delivering more.
+[Jeremy]: Got it!
+[Jeremy]: So, making sure that you're delivering value on everything that you're building, not just building something,
+[Jeremy]: or creating something to create it. [Vivek]: Definitely.
+****Agile Principle #11: The best architectures, requirements, and designs emerge
+[Jeremy]: from self-organizing teams.*** Principle #11 is all about self-organizing teams. Vivek?
+[Vivek]: Yeah.
+[Vivek]: So in agile teams, where the teams are self-organizing and cross-functional, meaning depending on what
+[Vivek]: kind of project you're working on, you're going to have people with the right skill sets. And that's what
+[Vivek]: a team is formed of.
+[Vivek]: Is everybody in the team has unique skill sets and they have what it takes to make this project successful.
+[Vivek]: So, when they need something- a question about an architecture- they already have somebody in that team,
+[Vivek]: so, they can actually talk to somebody, versus borrowing somebody, from somebody else.
+[Jeremy]: Yeah, I know in waterfall, or in other methodologies, a lot of times you need to go ask a manager. "Hey, can
+[Jeremy]: I have somebody from your team- from your testing team- to help out with this?". And it usually takes a long
+[Jeremy]: time.
+[Jeremy]: Where[as] in agile, with it being self-organizing,
+[Jeremy]: if you need somebody, you can go tap them on the shoulder and see if they have availability to come help
+[Jeremy]: your team, or to join the team potentially.
+[Vivek]: Definitely. [Jeremy]: ***Agile principal #12: At regular intervals,
+[Jeremy]: the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. *** And
+[Jeremy]: last but not least, reflect and adjust.
+[Jeremy]: Vivek, what do you think? [Vivek]: This is actually one of the key principle of agile, that... one my favorite principle
+[Vivek]: of agile as well. So, as you're working in a product as a team, you're going to learn different things
+[Vivek]: about each other... ways of working.
+[Vivek]: So at each interva,l like every two three weeks, you're getting back and you're looking at what went well,
+[Vivek]: what didn't go well, and how can we improve.
+[Vivek]: and this is a key principle of agile. [Jeremy]: Yeah.
+[Jeremy]: I think in Waterfall- reflect and adjust- is there as well. Like waterfall, or any other methodologies, they
+[Jeremy]: want to reflect, and get better, and change, and adapt.
+[Jeremy]: But the challenge is, in a waterfall project, you have that at the end of the project- that could be 3
+[Jeremy]: months, 6 months, 12 months from the time you start a project and it's just too long! You don't get enough
+[Jeremy]: time to reflect and adjust.
+[Jeremy]: Where[as in] agile, with it being more iterative, every few weeks, you're actually able to look and see how it's
+[Jeremy]: going and make adjustments as necessary, to make the team even more successful.
+
+                                         Agile  12 principles   Summary
+                                         =================================
+Deliver Value Faster – Our highest priority is to satisfy the customer through early and 
+continuous delivery of valuable software.
+
+Welcome Change – Welcome changes to requirements, even late in projects. Agile processes 
+harness that change for the customer’s competitive advantage.
+
+Deliver Working Software Frequently – Working software should be delivered after a couple of 
+weeks to a couple of months, with a preference to the shorter timescale.
+
+Work Together Daily – Business people and developers must work together daily throughout 
+the project.
+
+Build Projects Around Motivated Individuals – Give them the environment and support they 
+need and trust them to get the job done.
+
+Face-to-Face Conversations – The most efficient and effective method of conveying 
+information to and within a development team is with face-to-face conversation.
+
+Working Software is Key – Working software is the primary measure of progress.
+
+Sustainable Development – Agile processes promote sustainable development. The sponsors, 
+project team members (developers), and users should be able to maintain a constant pace 
+indefinitely.
+
+Attention to Technical Excellence – Continuous attention to technical excellence and good 
+design enhances agility.
+
+Simplicity – The art of maximizing the amount of work not done is essential.
+
+Self-Organizing Teams – The best architectures, requirements, and designs emerge from selforganizing teams.
+
+Reflect and Adjust – At regular intervals, the team reflects on how to become more effective, 
+then tunes and adjusts its behavior accordingly.
+============================================================================
+                                     Benefits  of  using Agile
+======================================================================
+
+As Vivek mentioned in an earlier lecture, agile was created because of the pitfalls and downfalls of
+a traditional waterfall methodology. You see with waterfall there's various phases and you can't move
+to the next phase until that previous phase is complete.
+And once you've moved past a phase, it's very difficult to go back to a previous phase.
+So for waterfall you need to identify all the requirements up front, then you need a model and analyze
+all those requirements.
+Then you need to develop some type of solution that meets those requirements.
+Then you go through the testing and move to production phases.
+But if you're already in the development or testing and you identify some changes, to go back it takes
+a lot of work for that team to go back to requirements and push that as a separate piece through that
+waterfall process. As well, because of having to do those things step by step by step
+the value isn't delivered to the end user and to the customer until the end of the process and so it causes
+a lot of problem. As well, with waterfall
+it's a much longer period to deliver any type of value or gain any feedback from the users or the customer
+that ultimately asked for this solution because you have to gather all the requirements, go through design
+development and testing, that is months, sometimes years to actually receive some type of solution that
+may or may not meet that business need. Agile was created to help solve those problems.
+The number one thing that agile does is it allows you to deliver that value in smaller increments to
+the customer. Not only as a customer that end users get to start utilizing that solution and seeing that
+value, but also they get to give you feedback.
+They really like it or they don't really like it or this should be adjusted or the business has changed.
+And now we said this, but it needs to really be this now. Agile allows you to do that, you deliver that
+little bit of value, you gain that critical feedback that will change and adjust the way you move forward
+on your project.
+And it really helps to solve a lot of those problems before they become big problems.
+And because agile is more of an iterative process, the project team is actually able to get
+feedback on their performance as well.
+The project team can understand what they could do differently and what they could adjust to make them
+even more successful and make their solution even more successful.
+
+===========================================================================================
+                             Challenges  of  using Agile
+======================================================================================
+
+So now that we've talked about some of the benefits of agile. Why aren't all companies using this?
+What are some of the challenges to using agile?
+Well the first thing is agile is actually difficult for existing companies and organizations to implement
+if they're using some type of methodology like waterfall or other methodology today.
+And the biggest reason is agile changes everything.
+It really has to change the whole mindset of the company.
+It sometimes has to change the organizational structure, has to change the way people and teams in various
+roles work with each other.
+And it really has to be an all or nothing process.
+So a lot of companies will kind of go into and want to move in the agile and they'll do it half heartedly
+because oh yeah we want to get better and we want our solutions to be out faster and we want to receive
+all those benefits of using it.
+But they do it half heartedly and in the end years down the line,
+they're still using a half agile half not an agile approach.
+And let's just say it doesn't work.
+So that's one of the big challenges is companies have to be all in and ready to spend some money and
+a lot of time in making that adjustment.
+Now we're seeing that new companies starting up have a much easier time of making this work.
+And that's because they don't have existing processes or various things that need to be adjusted.
+And that company culture can just be built around that agile philosophy and that agile mindset.
+One of the really nice things that a lot of team members like about agile is the real lack of documentation,
+honestly, agile really focuses on more on conversation and communication than writing all of these
+requirements out in building models and all that stuff.
+Agile really has that all done through
+let's sit down, let's discuss it, let's hammer it out and then we'll move forward on whatever is decided
+there.
+That can pose some real challenges when the project's over.
+And now you have maybe a support team handling this solution that was created.
+well, there's not any real documentation to tell that support team how it works or some of the common things
+that come up, it can be a big challenge for them to actually learn and support that particular solution.
+And while we're talking more documentation, another challenge for the lack of documentation is reusing
+features or components. In a traditional methodology such as waterfall
+you're documenting those features out, your document the design, your document all the analysis points
+that you've really thought about as you've designed it and as you've developed that solution and that
+feature, that component can be utilized on additional projects so if you have additional projects later
+that are very similar, you can utilize that documentation to implement that feature on that next project.
+Because of agile not having much documentation and really that information only being stored or really
+siloed by the project team members that worked on that particular project,
+it can be much more difficult in agile to take a feature from a previous project and successfully apply
+it to the new one. And the last challenge we're going to talk about is really there's not a clear role in
+that agile that takes control or has ownership of that particular project.
+Instead the team works together collaboratively and everybody chips in and does their part to make sure
+that the project meets that eventual business need.
+The challenge arises when the project goes off course, when it kind of goes into an area that wasn't
+planned for.
+Now there's no real role inside of that team to help bring it back.
+Everybody in the collaborative teams kind of looking at each other and not really sure who should be
+stepping up to correct the path and get back on plan. Throughout this course
+we're going to be breaking down these various challenges and giving you ways to help you overcome or
+avoid them happening.
+
+=====================================================================
+  Setting the  stage   for  the   Remainder  of  the  course
+====================================================================
+
+As it was mentioned earlier in the course, agile is really a concept or a philosophy. Off of that,
+different organizations and companies have built various frameworks that kind of walk you through this
+step by step of how agile is performed within that various company.
+And a lot of those frameworks have become methodology such as scrum kanban and scrumban.
+And those are the three most popular agile methodologies used by companies today.
+In the next sections we're going to break down each of those methodologies, we're going to start with
+scrum as that's the most popular, majority of companies that are utilizing agile are utilizing some version
+of scrum.
+We're then going to transition into kanban. Kanban is a little bit different way of working through more
+of a continuous process rather than having various sections and segments that you'll learn about in
+scrum. Scrumban is really a combination of both.
+A lot of companies that use scrumban and are using it as a kind of a launching point for them to get
+from scrum to the kanban methodology.
+But enough about me jumping into various details.
+Let's teach you about scrum.
+
