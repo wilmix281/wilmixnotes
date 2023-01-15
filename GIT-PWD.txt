@@ -1,0 +1,16 @@
+ https://github.com/simplyi/mobile-app-ws-quick-start.git
+
+https://github.com/simplyi/SpringCloudAPIGateway/archive/refs/heads/update-spring-boot-v3.0.1.zip
+
+ https://github.com/simplyi/SpringCloudAPIGateway/tree/update-spring-boot-v3.0.1
+
+
+ https://github.com/simplyi/SpringCloudAPIGateway/archive/main.zip
+
+ https://github.com/simplyi/SpringCloudAPIGateway.git
+
+
+ https://github.com/simplyi/SpringCloudVideoCourse/archive/master.zip
+
+
+
