@@ -1,0 +1,18 @@
+collection
+sql injection
+store procedure
+spring
+maven 
+dependancy injection
+
+jenkins
+
+GIT
+Customized configuration
+
+CI/CD  pipeline.
+
+https://www.youtube.com/watch?v=zNdoHTJ0jPA
+
+
+
